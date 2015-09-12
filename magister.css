@@ -145,7 +145,6 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	font-size:7em;
 	margin-top: 3.3em;
 	padding-left: 38%;
-	margin-bottom:15px; 
 	color:#E65C00; 
 	line-height:1em;
 	text-shadow: 3px 0 0 #000, 0 -3px 0 #000, 0 3px 0 #000, -3px 0 0 #000;
@@ -154,8 +153,6 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	font-family: KaushanScript-Regular;
 	line-height:.9em;
 	font-size:2em;
-	padding-top:10px;
-	margin-bottom:40px; 
 	padding-left: 38%;
 	text-shadow: 3px 0 0 #000, 0 -3px 0 #000, 0 3px 0 #000, -3px 0 0 #000;
 
